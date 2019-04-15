@@ -24,10 +24,11 @@
     "babel-preset-react": "^6.24.1",
     "clean-webpack-plugin": "^0.1.16",
     "http-server": "^0.10.0",
-    "ts-loader": "^2.3.2",
+    "ts-loader": "^5.3.3",
     "typescript": "^2.4.2",
-    "webpack": "^3.4.1",
-    "webpack-dev-server": "^2.8.2"
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
   },
   "dependencies": {
     "@angular/common": "^4.3.3",
@@ -43,8 +44,8 @@
     "reflect-metadata": "^0.1.10",
     "rxjs": "^5.4.2",
     "single-spa": "^3.8.1",
-    "single-spa-angular2": "^1.2.0",
-    "single-spa-react": "^2.2.0",
+    "single-spa-angular": "^2.1.0",
+    "single-spa-react": "^2.9.0",
     "zone.js": "^0.8.16"
   }
 }
